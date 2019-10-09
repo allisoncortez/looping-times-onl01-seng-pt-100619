@@ -1,10 +1,9 @@
 def using_times
-	spell = ()
+	#spell = ()
 	7.times do
 	  puts "Wingardium Leviosa"
 	  
 	end
-	  puts spell
 end
 
 
